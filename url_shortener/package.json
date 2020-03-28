@@ -3,20 +3,7 @@
   "version": "1.0.0",
   "description": "URL shortner",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/ldy121/nodejs.git"
-  },
-  "keywords": [
-    "URL"
-  ],
+  "repository": "git@github.com:ldy121/nodejs.git",
   "author": "dy121.lee",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ldy121/nodejs/issues"
-  },
-  "homepage": "https://github.com/ldy121/nodejs#readme"
+  "license": "MIT"
 }
