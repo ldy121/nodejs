@@ -1,7 +1,7 @@
 {
-  "name": "PipeTest",
+  "name": "file-pipe-compress-example",
   "version": "1.0.0",
-  "description": "nodejs test for stream redirection and zlib",
+  "description": "nodejs test for stream redirection and archiver",
   "main": "index.js",
   "repository": "https://github.com/ldy121/nodejs.git",
   "author": "ldy121",
@@ -12,7 +12,8 @@
     "lint": "eslint *.js"
   },
   "dependencies": {
-    "fs-sync": "^1.0.6"
+    "archiver": "^4.0.1",
+    "fs": "^0.0.1-security",
   },
   "devDependencies": {
     "eslint": "^6.8.0",
